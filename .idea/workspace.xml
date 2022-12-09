@@ -1,11 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="10f32ba3-498b-469a-96d1-1dc2ade726c8" name="Changes" comment="" />
+    <list default="true" id="10f32ba3-498b-469a-96d1-1dc2ade726c8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/StringHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,7 +44,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2IdnQiDB0fz1T20lJKrgHKDZYqL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -24,10 +55,119 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.mockito" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ArgumentCapture.letsTestDeleteNow_usingBDD_argumentCapture">
+    <configuration name="ArgumentCapture.letsTestDeleteNow_usingBDD_argumentCapture" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.mockito.section_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.mockito.section_5" />
+      <option name="MAIN_CLASS_NAME" value="org.example.mockito.section_5.ArgumentCapture" />
+      <option name="METHOD_NAME" value="letsTestDeleteNow_usingBDD_argumentCapture" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest.letsMockListSizeMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.mockito.section_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.mockito.section_5" />
+      <option name="MAIN_CLASS_NAME" value="org.example.mockito.section_5.ListTest" />
+      <option name="METHOD_NAME" value="letsMockListSizeMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest.letsMockList_throwException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.mockito.section_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.mockito.section_5" />
+      <option name="MAIN_CLASS_NAME" value="org.example.mockito.section_5.ListTest" />
+      <option name="METHOD_NAME" value="letsMockList_throwException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyCallsOnMock.letsMockListGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.mockito.section_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.mockito.section_5" />
+      <option name="MAIN_CLASS_NAME" value="org.example.mockito.section_5.VerifyCallsOnMock" />
+      <option name="METHOD_NAME" value="letsMockListGet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyCallsOnMock.letsTestDeleteNow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JunitPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.mockito.section_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.mockito.section_5" />
+      <option name="MAIN_CLASS_NAME" value="org.example.mockito.section_5.VerifyCallsOnMock" />
+      <option name="METHOD_NAME" value="letsTestDeleteNow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ArgumentCapture.letsTestDeleteNow_usingBDD_argumentCapture" />
+        <item itemvalue="JUnit.VerifyCallsOnMock.letsTestDeleteNow" />
+        <item itemvalue="JUnit.VerifyCallsOnMock.letsMockListGet" />
+        <item itemvalue="JUnit.ListTest.letsMockList_throwException" />
+        <item itemvalue="JUnit.ListTest.letsMockListSizeMethod" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,8 +176,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670520317305</updated>
-      <workItem from="1670520318000" duration="4000" />
+      <workItem from="1670520318000" duration="15361000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/mockito/TodoBusinessImpl.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JunitPractice$TodoBusinessImplStubTest_usingAStub.ic" NAME="TodoBusinessImplStubTest.usingAStub Coverage Results" MODIFIED="1670566727166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.mockito.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JunitPractice$StringHelperTest_truncateAInFirst2PositionsTest.ic" NAME="StringHelperTest.truncateAInFirst2PositionsTest Coverage Results" MODIFIED="1670521616759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JunitPractice$StringHelperTest.ic" NAME="StringHelperTest Coverage Results" MODIFIED="1670522079764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JunitPractice$StringHelperTest_truncateAInFirst2PositionsTwoCharacters.ic" NAME="StringHelperTest.truncateAInFirst2PositionsTwoCharacters Coverage Results" MODIFIED="1670521742478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JunitPractice$StringHelperTest_areFirstAndLastTwoCharactersTheSameTest.ic" NAME="StringHelperTest.areFirstAndLastTwoCharactersTheSameTest Coverage Results" MODIFIED="1670521988153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.*</FILTER>
+    </SUITE>
   </component>
 </project>
