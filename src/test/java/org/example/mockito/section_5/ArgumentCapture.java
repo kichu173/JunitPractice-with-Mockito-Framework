@@ -36,12 +36,12 @@ public class ArgumentCapture {
 
 
         // Then
-        then(todoServiceMock).should().deleteTodo(stringArgumentCaptor.capture()); // alternate to above syntax(BDD)
+        then(todoServiceMock).should().deleteTodo(stringArgumentCaptor.capture());
         // then(todoServiceMock).should(times(2)).deleteTodo(stringArgumentCaptor.capture()); // if arguments are captured multiple times, when specific method is called
 
         assertThat(stringArgumentCaptor.getValue(), is("Learn to Dance"));
 
         // if arguments are captured multiple times, when specific method is called
-        assertThat(stringArgumentCaptor.getAllValues().size(), is(2));
+        //assertThat(stringArgumentCaptor.getAllValues().size(), is(2));
     }
 }
